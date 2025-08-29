@@ -24,7 +24,7 @@ A custom ServiceNow application to monitor, secure, and analyze third-party appl
 
 ---
 
-🔧 Tools and Technologies :-
+🔧 Tech Stack :-
 
 ● Core Platform: ServiceNow
 
